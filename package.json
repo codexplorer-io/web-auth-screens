@@ -1,0 +1,14 @@
+{
+    "name": "@codexporer.io/web-auth-screens",
+    "version": "1.0.0",
+    "main": "src/index.js",
+    "peerDependencies": {
+        "@codexporer.io/expo-amplify-auth": "*",
+        "@fluentui/react": "*",
+        "react": "*",
+        "lodash": "*",
+        "styled-components": "*",
+        "aws-amplify": "*",
+        "react-sweet-state": "*"
+    }
+}
