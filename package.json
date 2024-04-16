@@ -8,7 +8,7 @@
         "react": "*",
         "lodash": "*",
         "styled-components": "*",
-        "aws-amplify": "*",
+        "aws-amplify": ">=6.0.0",
         "react-sweet-state": "*"
     }
 }
